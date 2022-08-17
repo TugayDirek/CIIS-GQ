@@ -1,0 +1,6 @@
+To run the program from cmd, write:
+
+python "main_cmd.py" "address of the file"
+
+Sample:
+python "\\fcstorage\userprofiles$\tdirek\Desktop\New folder (3)\main.py" "C:\Users\tdirek\PycharmProjects\tez\pdb files\pdb2mgn.ent"
