@@ -1,4 +1,4 @@
-import sys, GIIS_GQ
+import sys, CIIS_GQ
 
 # print ('Number of arguments:', len(sys.argv), 'arguments.')
 # print ('Argument List:', str(sys.argv))
