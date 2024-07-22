@@ -1,6 +1,6 @@
 To run the program from cmd, write:
 
-python "address of the main_cmd python file" "address of the pdb file"
+python "address of the main_cmd python file" "address of the pdb file".
 
 Sample:
-python "\\fcstorage\userprofiles$\tdirek\Desktop\New folder (3)\main.py" "C:\Users\tdirek\PycharmProjects\tez\pdb files\pdb2mgn.ent"
+python C:\Users\tdirek\PycharmProjects\tez\main_cmd.py "C:\Users\tdirek\PycharmProjects\tez\pdb files\pdb1oz8.ent"
